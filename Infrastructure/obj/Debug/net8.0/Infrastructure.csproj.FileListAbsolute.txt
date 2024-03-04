@@ -1,0 +1,15 @@
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\DELL USA\Desktop\.NET\Week2\Day1\Homework\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
